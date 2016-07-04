@@ -1,4 +1,3 @@
-
 ## the purpose of the makeCacheMatrix function is to create a matrix (x), but also to create functions that:
 ## cache the solution of x in the object m, if x has been solved (NULL otherwise) 
 ## the purpose of the cacheSolve function is to solve the matrix (x) 
